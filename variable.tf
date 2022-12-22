@@ -1,5 +1,5 @@
 variable "name" {
-    default = "rg-group"
+    default = "rg-group-2"
   
 }
 
