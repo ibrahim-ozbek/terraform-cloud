@@ -3,6 +3,6 @@ variable "name" {
   
 }
 
-variable "location {
+variable "location" {
     default = "West Europe"
 }
